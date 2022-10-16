@@ -1,4 +1,4 @@
-Diabetes_012;HighBP;HighChol;CholCheck;BMI;Smoker;Stroke;HeartDiseaseorAttack;PhysActivity;Fruits;Veggies;HvyAlcoholConsump;AnyHealthcare;NoDocbcCost;GenHlth;MentHlth;PhysHlth;DiffWalk;Sex;Age;Education;Income
+Diabetes_012,HighBP,HighChol,CholCheck,BMI,Smoker,Stroke,HeartDiseaseorAttack,PhysActivity,Fruits,Veggies,HvyAlcoholConsump,AnyHealthcare,NoDocbcCost,GenHlth,MentHlth,PhysHlth,DiffWalk,Sex,Age,Education,Income
 0;0;10;10;430;10;0;10;10;10;10;0;10;0;40;0;0;0;10;70;50;70
 0;0;0;10;270;10;0;0;10;0;10;0;10;10;40;20;200;0;0;110;40;40
 0;0;0;10;220;10;0;0;10;10;10;0;10;0;20;20;0;0;10;20;60;80
